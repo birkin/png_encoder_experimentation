@@ -1,0 +1,1 @@
+Little repo to experiment with encoding a PNG to base64 in rust and python.
